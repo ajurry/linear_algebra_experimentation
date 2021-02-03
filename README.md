@@ -1,2 +1,2 @@
-# linear_algebra_experimentation
-Experimenting with Linear Algebra in Python
+# Linear Algebra Refresher
+My own personal refresher on Linear Algebra using Python... It has been far too long!
