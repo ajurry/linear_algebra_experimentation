@@ -71,7 +71,7 @@ class test_vector(unittest.TestCase):
         # Hmmmm... I don't understand why test_vector_to_append
         # is becoming 4, 5, 6, 4, 5, 6
         # Surely, it should be 1, 2, 3, 4, 5, 6
-        # Do not know why these objects are beind distinct
+        # Do not know why these objects are not distinct
         test_vector_to_append = Vector([1,2,3])
         test_appendage = Vector([4,5,6])
         length_before = len(test_vector_to_append) + len(test_appendage)
